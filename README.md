@@ -5,7 +5,7 @@ MySQL database for a fictional telecom company, designed as part of my MSc Data 
 ## What's inside
 
 - `telecom_db.sql`: creates the schema, loads the sample data and runs the queries
-- `telecomb.png`: the entity-relationship diagram
+- `telecomdb.png`: the entity-relationship diagram
 
 ## Data model
 
