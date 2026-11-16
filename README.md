@@ -9,7 +9,7 @@ MySQL database for a fictional telecom company, designed as part of my MSc Data 
 
 ## Data model
 
-![Entity-relationship diagram](telecom_erd.png)
+![Entity-relationship diagram](telecomdb.png)
 
 `Customers` is the central table. Each customer has one service plan and many usage, billing and support records.
 
